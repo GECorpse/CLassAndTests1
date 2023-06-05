@@ -1,0 +1,11 @@
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\bin\Debug\SvyatovMath.exe.config
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\bin\Debug\SvyatovMath.exe
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\bin\Debug\SvyatovMath.pdb
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.csproj.AssemblyReference.cache
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.csproj.CoreCompileInputs.cache
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.exe
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.pdb
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\bin\Debug\MathLibrary19.dll
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\bin\Debug\MathLibrary19.pdb
+C:\Users\IMac10\source\repos\SvyatovMath\SvyatovMath\obj\Debug\SvyatovMath.csproj.CopyComplete
